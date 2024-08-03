@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../vue-bpmn-element-master"
+		},
+		{
+			"path": "../../../../vue-bpmn-element-master/vue-bpmn-element-master"
+		},
+		{
+			"path": "../../../../前端代码-ws-ui/ws-ui"
+		}
+	],
+	"settings": {}
+}
